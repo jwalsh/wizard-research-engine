@@ -1,0 +1,38 @@
+#+TITLE: Inside the Wizard Research Engine
+#+DATE: 9/21
+#+LOCATION: Union Station Grand DE (PWLConf)
+
+* Introduction
+
+  - What is WebAssembly (Wasm)?
+  - Overview of Wasm's capabilities and its potential
+  - Short mention of new features coming to Wasm
+
+* The Wizard Research Engine 
+
+  - Introduction to the Wizard engine
+  - How it's designed for instrumentation, dynamic analysis, and experimentation
+
+* Wasm in various contexts 
+
+  - Use cases in embedded systems, cloud and edge deployments, and blockchains
+
+* Challenge of new features 
+
+  - Garbage-collected data
+  - First-class functions
+  - Stack switching
+
+* Challenges facing managed runtimes 
+
+  - Possible issues and mitigation strategies
+
+* Future of Wizard and Wasm 
+
+  - What to expect in the near future?
+
+* Conclusion 
+
+  - Recap of the main points of the presentation
+
+* Q&A
